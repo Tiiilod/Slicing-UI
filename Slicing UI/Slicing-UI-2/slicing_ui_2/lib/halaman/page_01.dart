@@ -55,6 +55,10 @@ class Page01 extends StatelessWidget {
               onPressed: () {}, 
               icon: Icon(Icons.circle),
               ),
+              IconButton(
+              onPressed: () {}, 
+              icon: Icon(Icons.circle),
+              ),
             ],
           ),
       ),

@@ -14,14 +14,14 @@ class Container7 extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   SizedBox(height: 2,),
-                  Container(height: 100, width: 300, decoration: BoxDecoration(
+                  Container(height: 100, width: 310, decoration: BoxDecoration(
                   color: Colors.grey, 
                   borderRadius: BorderRadius.circular(10),
                 ),),
                 ],
               ),
               SizedBox(width: 10,),
-              Container(height: 100, width: 150,
+              Container(height: 100, width: 140,
                 decoration: BoxDecoration(
                   color: Colors.grey, 
                   borderRadius: BorderRadius.circular(15),
