@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
               SizedBox(
                 width: 100,
                 height: 100,
-                child: Lottie.asset('splash/moon.json'),
+                child: Lottie.asset("assets/moon.json"),
               ),
               Text(
                 "Slicing UI",

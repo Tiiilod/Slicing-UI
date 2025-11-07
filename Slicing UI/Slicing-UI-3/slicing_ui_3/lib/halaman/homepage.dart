@@ -1,9 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:lucide_icons_flutter/lucide_icons.dart';
 import 'package:slicing_ui_3/komponen/banner.dart';
-import 'package:slicing_ui_3/komponen/button.dart';
 import 'package:slicing_ui_3/komponen/kartuKAI.dart';
-import 'package:slicing_ui_3/komponen/kartukaimn.dart';
 import 'package:slicing_ui_3/komponen/menuAtas.dart';
 import 'package:slicing_ui_3/komponen/mnItem.dart';
 import 'package:slicing_ui_3/komponen/mnKereta.dart';

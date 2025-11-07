@@ -53,7 +53,7 @@ class Trip extends StatelessWidget {
               borderRadius: BorderRadius.circular(10),
               border: Border.all(width: 1.5, color: Colors.white),
             ),
-            child: Text("buat", style: TextStyle(color: Colors.white)),
+            child: Text("Buat", style: TextStyle(color: Colors.white)),
           ),
         ],
       ),
